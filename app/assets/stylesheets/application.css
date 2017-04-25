@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+.jobinfo,
+.userinfo {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.crudbuttons {
+  padding: 5px;
+}
